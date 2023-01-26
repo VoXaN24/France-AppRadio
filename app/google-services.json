@@ -1,39 +1,39 @@
 {
   "project_info": {
-    "project_number": "535199639295",
-    "project_id": "luxoradio-e332a",
-    "storage_bucket": "luxoradio-e332a.appspot.com"
+    "project_number": "781919972891",
+    "project_id": "fracoradio",
+    "storage_bucket": "fracoradio.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:535199639295:android:ed08d261fd02da4ad88eca",
+        "mobilesdk_app_id": "1:781919972891:android:94ae0bf705d4befd5912be",
         "android_client_info": {
-          "package_name": "lu.voxhost.LuxoRadio"
+          "package_name": "lu.voxhost.FrancoRadio"
         }
       },
       "oauth_client": [
         {
-          "client_id": "535199639295-blorjumjs1qpjpvrjubfau1v87u17vbt.apps.googleusercontent.com",
+          "client_id": "781919972891-pi0fl24ned7562oue79j26d5m8qo7aqt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBtPib5WuPBdiBUBcgicz7SqX8kyoNKloA"
+          "current_key": "AIzaSyDandibY4b4PXuTm86cK_YmustMHi-6ojg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "535199639295-blorjumjs1qpjpvrjubfau1v87u17vbt.apps.googleusercontent.com",
+              "client_id": "781919972891-pi0fl24ned7562oue79j26d5m8qo7aqt.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
       },
-      "admob_app_id": "ca-app-pub-5026568447596181~5463448197"
+      "admob_app_id": "ca-app-pub-5026568447596181~5239554089"
     }
   ],
   "configuration_version": "1"

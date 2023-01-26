@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">LuxoRadio</string>
+    <string name="app_name">FrancoRadio</string>
 
-    <string name="admob_app_id">ca-app-pub-5026568447596181~5463448197</string>
+    <string name="admob_app_id">ca-app-pub-5026568447596181~5239554089</string>
     <string name="applovin_sdk_key">x</string>
 
     <string name="follow_us">Follow Us</string>
