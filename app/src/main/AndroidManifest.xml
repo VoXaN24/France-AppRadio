@@ -13,7 +13,7 @@
     </queries>
 
     <application
-        android:name="lu.voxhost.LuxoRadio.activity.MyApplication"
+        android:name="lu.voxhost.FrancoRadio.activity.MyApplication"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
@@ -22,7 +22,7 @@
         android:usesCleartextTraffic="true">
 
         <activity
-            android:name="lu.voxhost.LuxoRadio.activity.SplashActivity"
+            android:name="lu.voxhost.FrancoRadio.activity.SplashActivity"
             android:exported="true"
             android:theme="@style/AppTheme.NoActionBar2">
             <intent-filter>
@@ -32,7 +32,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="lu.voxhost.LuxoRadio.activity.MainActivity"
+            android:name="lu.voxhost.FrancoRadio.activity.MainActivity"
             android:configChanges="screenSize|orientation|smallestScreenSize"
             android:windowSoftInputMode="stateAlwaysHidden|adjustResize"
             android:launchMode="singleTask"
@@ -40,7 +40,7 @@
             android:theme="@style/AppTheme.NoActionBar"/>
 
         <service
-            android:name="lu.voxhost.LuxoRadio.utils.FcmReceiver"
+            android:name="lu.voxhost.FrancoRadio.utils.FcmReceiver"
             android:enabled="true"
             android:exported="false">
             <intent-filter>
@@ -48,7 +48,7 @@
             </intent-filter>
         </service>
         
-        <service android:name="lu.voxhost.LuxoRadio.services.RadioService" />
+        <service android:name="lu.voxhost.FrancoRadio.services.RadioService" />
 
         <receiver
             android:name="androidx.media.session.MediaButtonReceiver"
